@@ -1,1 +1,3 @@
-spring.application.name=aws-cloud-etc
+spring:
+  application:
+    name: aws-cloud-etc
